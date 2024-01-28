@@ -3,7 +3,7 @@
 <br>
 <b>Task 1</b>
 <br>
-Create To-Do_List using Python
+Create Calculator using Python
 <br>
 <br>
 <b>Task 2</b>
